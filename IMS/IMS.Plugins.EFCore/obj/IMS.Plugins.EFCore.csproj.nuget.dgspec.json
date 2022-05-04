@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {}
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
         "projectName": "IMS.Plugins.EFCore",
-        "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
         "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }

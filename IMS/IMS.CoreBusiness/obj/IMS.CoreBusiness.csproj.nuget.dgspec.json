@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {}
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",

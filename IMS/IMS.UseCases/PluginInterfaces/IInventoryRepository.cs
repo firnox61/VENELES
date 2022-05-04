@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.PluginInterfaces
 {
-    public interface IInventoryRepository
+    public  interface IInventoryRepository
     {
         Task<IEnumerable<Inventory>> GetInventoriesByName(string name);
     }

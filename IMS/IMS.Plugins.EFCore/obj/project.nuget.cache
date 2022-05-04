@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsTkkZA1paaNGg7NQ/2rrBIuhaet7ZCBunodEbxLLGWGXMhUuN8+x67IDL62OBNIQM7iITRgH0of7CU9tsFo4A==",
+  "dgSpecHash": "sORpmPbEP9lyOIAgLbvdFxU3WYqckZZhNG2CgC3bDrBQz4Qbzxy+QRhXhMPA2uKXIEDm9CA8pUOEC/HFGKkihQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\firno\\Desktop\\pastaneproje\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firno\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\firno\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
