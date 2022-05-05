@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {}
+    "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
-        "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\obj\\",
+        "projectPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
+    "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
         "projectName": "IMS.Plugins.EFCore",
-        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
-        "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.Plugins.EFCore\\obj\\",
+        "projectPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.Plugins.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -118,21 +118,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
-        "packagesPath": "C:\\Users\\firno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.UseCases\\obj\\",
+        "projectPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "packagesPath": "C:\\Users\\Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\firno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,8 +146,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\firno\\Desktop\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\Volkan\\Documents\\VENELES\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }
@@ -176,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
