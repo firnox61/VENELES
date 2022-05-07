@@ -9,20 +9,26 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Bana tıkla</button>
+<button class="btn btn-primary" @onclick="IncrementCount">Click Me</button>
 <br/>
-<ViewInventoriesComponent></ViewInventoriesComponent>
+<ViewInventoriesComponent OnSearchInventories="OnSearchInventories"></ViewInventoriesComponent>
 
 @code {
     private int currentCount = 0;
     //use case testi ve iyi çalışıyor
-    /*burayı sildik
+     /*burayı sildik
      * protected override async Task OnInitializedAsync()
-    {
+        {
         var invs =await ViewInventoriesByNameUseCase.ExecuteAsync("ngi");
-    }
+     }
      * 
-     */
+    */
+    private void OnSearchInventories(List<Inventory> inventories)
+    {
+        
+    }
+
+
     
     private void IncrementCount()
     {
