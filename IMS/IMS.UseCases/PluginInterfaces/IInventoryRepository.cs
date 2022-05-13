@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 namespace IMS.UseCases.PluginInterfaces
 {
     public  interface IInventoryRepository
-    {
+    {   
+        Task AddInventoryAsync(Inventory inventory);//burası eksik çık ekledim
         Task<IEnumerable<Inventory>> GetInventoriesByName(string name);
     }
 }

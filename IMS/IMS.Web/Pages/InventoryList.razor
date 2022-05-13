@@ -1,4 +1,7 @@
 ﻿@page "/inventories"
+
+@inject NavigationManager NavigationManager
+@inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase
 <h3>InventoryList</h3>
 <br/>
 <ViewInventoriesComponent OnSearchInventories="OnSearchInventories"></ViewInventoriesComponent>
@@ -26,13 +29,26 @@
         </tbody>
     </table>
 }
-
+<br/>
+<button type="button" class="btn btn-primary" @onclick="AddInventory">Add Inventory</button>
 
 @code {
     private List<Inventory>? ListInventories;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var invs=await ViewInventoriesByNameUseCase.ExecuteAsync();
+        this.ListInventories = invs.ToList();
+    }
+
+
     private void OnSearchInventories(List<Inventory> inventories)
     {
         ListInventories = inventories;
+    }
+    private void AddInventory()
+    {
+        NavigationManager.NavigateTo("/addinventory");
     }
 
 }
